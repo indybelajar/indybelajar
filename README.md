@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @indybelajar
-- 👀 I’m interested in Data science and web development and 
+- 👀 I’m interested in Data science and web development  
 - 🌱 I’m currently learning Backend development  and data science
 - 💞️ I’m looking to collaborate on Data science
 - 📫 You can reach me from my linkedin (Indy Agustin) or my instagram (indyasdfg_)
