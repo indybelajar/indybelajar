@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @indybelajar
-- 👀 I’m interested in Data Science and Web Development  
-- 🌱 I’m currently learning Backend Development  and Data Science
+- 👀 I’m interested in Web Development  
+- 🌱 I’m currently learning Backend Development  
 - 📫 You can reach me from my linkedin (Indy Agustin) or my instagram (indyasdfg_)
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: i can sleep anywhere but i cant sleep at night
